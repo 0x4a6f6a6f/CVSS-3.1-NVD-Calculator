@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackVectorCalc", "AttackVectorCalc\AttackVectorCalc.csproj", "{F6506B72-7CF4-49FC-AEF7-E78EFC8F6321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6506B72-7CF4-49FC-AEF7-E78EFC8F6321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6506B72-7CF4-49FC-AEF7-E78EFC8F6321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6506B72-7CF4-49FC-AEF7-E78EFC8F6321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6506B72-7CF4-49FC-AEF7-E78EFC8F6321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9DDF4ED-7DBC-402C-B69C-20ACD6231DAF}
+	EndGlobalSection
+EndGlobal
